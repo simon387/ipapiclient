@@ -1,3 +1,11 @@
+Version 1.0.2
+- fix calling error
+- updated .gitignore
+- added timestamps
+- removed useless code
+- added args parameters and defaults
+- added more infos on logs
+
 Version 1.0.1
 - clean code
 
